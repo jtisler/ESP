@@ -16,7 +16,7 @@ The easiest way to use ESP is through the [Processing](http://processing.org) De
 Pre-requisites: you'll need git plus Xcode on Mac OS X, Visual Studio on Windows, and CMake on Linux. To install, first clone this repository, then run the setup script:
 
 ```
-git clone --recursive https://github.com/damellis/ESP.git
+git clone --recursive https://github.com/jtisler/ESP.git
 cd ESP
 ./setup.sh
 ```
@@ -30,7 +30,7 @@ unsurprisingly, ESP. Below are instructions to run on different platform
 (we support Mac OS X, Windows, and Linux).
 
 Choose the ESP example you want to run by uncommenting the corresponding line at
-[user.cpp](https://github.com/damellis/ESP/blob/master/Xcode/ESP/src/user.cpp). See below for a list of available examples.
+[user.cpp](https://github.com/jtisler/ESP/blob/master/Xcode/ESP/src/user.cpp). See below for a list of available examples.
 
 Arduino Project Hub has a more comprehensive [tutorial](https://create.arduino.cc/projecthub/mellis/gesture-recognition-using-accelerometer-and-esp-mac-only-71faa1) on how to use the software.
 
